@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+#title{
+    height: 200px;
+    background-color: rgb(202, 194, 194);
+}
+
+#img-div{
+    margin: 20px auto;
+    width: 900px;
+    height: 600px;
+}
+
+figure img{
+    display: block;
+    max-width: 100%;
+}
+
+#img-caption{
+    margin: 20px auto;
+}
+
+#about{
+    
+    background-color: rgb(223, 222, 220);
+}
+
+#tribute-info{
+    height: 400px;
+}
+
+ul li {
+    margin-top: 10px;
+}
+
+.year-text,#tribute-info {
+    margin: 20px auto;
+    padding: 10px 20px;
+    width: 800px;
+    text-align: justify;
+}
